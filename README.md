@@ -107,4 +107,4 @@ MediFlow AI is engineered to solve the most pressing challenges in modern health
 - [ ] **Financial Predictive Analytics**: 12-month revenue and expense forecasting for hospital boards.
 
 ---
-*Created with ❤️ by the Bhaskar joshi.*
+* by the Bhaskar joshi.*
